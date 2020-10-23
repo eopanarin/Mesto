@@ -8,4 +8,4 @@
 2)БЭМ
 3)Адаптивная вёрстка
 
-https://eopanarin.github.io/mesto/
+https://eopanarin.github.io/Mesto/
