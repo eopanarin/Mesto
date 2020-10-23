@@ -1,0 +1,23 @@
+.popup__form {
+  display: flex;
+  flex-flow: column nowrap;
+  width: 165px;
+}
+
+@media screen and (min-width: 375px){
+  .popup__form {
+    width: 200px;
+  }
+}
+
+@media screen and (min-width: 425px){
+  .popup__form {
+    width: 245px;
+  }
+}
+
+@media screen and (min-width: 768px){
+  .popup__form {
+    width: 358px;
+  }
+}
